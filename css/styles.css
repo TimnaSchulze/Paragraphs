@@ -1,0 +1,16 @@
+.intro {
+  width: 50%;
+  font-style: italic;
+  color: red;
+}
+
+p.author {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+/* This is an example CSS selector for an id attribute */
+#line2 {
+  color: red;
+}
